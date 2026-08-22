@@ -1,1 +1,11 @@
 
+AWS EC2 — virtual server
+Apache — web server
+VPC — networking
+Security Groups — network access control
+IAM — permissions
+Launch Template
+Auto Scaling Group (ASG)
+High Availability
+CloudShell/SSH
+RDS/MySQL
